@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body{
+	box-sizing: border-box;
+	font-family: 'Teko', sans-serif;
+	-webkit-box-shadow: inset -2px -2px 187px 17px rgba(43,40,43,0.54);
+	-moz-box-shadow: inset -2px -2px 187px 17px rgba(43,40,43,0.54);
+	box-shadow: inset -2px -2px 187px 17px rgba(43,40,43,0.54);
+	
+}
+
+.root{
+	display: flex;
+	flex-direction: column;
+}
+

@@ -1,0 +1,11 @@
+export const header = 'header';
+export const movies = 'movies';
+export const search = 'search';
+export const footer = 'footer';
+export const loading = 'loading';
+export const film = 'film';
+export const error = 'error';
+export const filmsLink = 'https://www.imdb.com/title/';
+export const info = 'movie-info';
+export const eng = 'eng';
+export const ru = 'ru';

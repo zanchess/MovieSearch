@@ -1,0 +1,13 @@
+.header{
+	height: 70px;
+	background-color: #1f1f1f;
+	padding-top: 18px;
+	box-sizing: border-box;
+
+	&__h1 {
+		font-family: 'Bangers', cursive;
+		text-align: center;
+		color: #ecde61;
+		letter-spacing: 3px;
+	}
+}
