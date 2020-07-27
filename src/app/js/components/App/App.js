@@ -57,6 +57,7 @@ class App {
       .then(() => {
         this.search.hideErrors();
         this.loader.endLoadContent();
+        this.search.clearInput();
       });
   }
 
